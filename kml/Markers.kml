@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Markers</name>
+    <Style id="icon-1644-01579B-normal">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1644-01579B-highlight">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1644-01579B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1644-01579B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1644-01579B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1733-006064-normal">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1733-006064-highlight">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1733-006064">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1733-006064-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1733-006064-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-7CB342-1001-94-normal">
+      <LineStyle>
+        <color>ff42b37c</color>
+        <width>1.001</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>5e42b37c</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-7CB342-1001-94-highlight">
+      <LineStyle>
+        <color>ff42b37c</color>
+        <width>1.5015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>5e42b37c</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-7CB342-1001-94">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-7CB342-1001-94-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-7CB342-1001-94-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-7CB342-1200-92-normal">
+      <LineStyle>
+        <color>ff42b37c</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>5c42b37c</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-7CB342-1200-92-highlight">
+      <LineStyle>
+        <color>ff42b37c</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>5c42b37c</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-7CB342-1200-92">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-7CB342-1200-92-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-7CB342-1200-92-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Public Restrooms</name>
+      <description><![CDATA[description: <br>fid: <br>id: <br>changed: <br>pictureFolder: <br>pictureName: <br>picturePath: <br>created: <br>perimeter: <br>perimeterUnit: <br>area: <br>areaUnit: <br>numberOfPoints: <br>altitude: <br>accuracy: ]]></description>
+      <styleUrl>#icon-1733-006064</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="fid">
+          <value/>
+        </Data>
+        <Data name="id">
+          <value/>
+        </Data>
+        <Data name="changed">
+          <value/>
+        </Data>
+        <Data name="pictureFolder">
+          <value/>
+        </Data>
+        <Data name="pictureName">
+          <value/>
+        </Data>
+        <Data name="picturePath">
+          <value/>
+        </Data>
+        <Data name="created">
+          <value/>
+        </Data>
+        <Data name="perimeter">
+          <value/>
+        </Data>
+        <Data name="perimeterUnit">
+          <value/>
+        </Data>
+        <Data name="area">
+          <value/>
+        </Data>
+        <Data name="areaUnit">
+          <value/>
+        </Data>
+        <Data name="numberOfPoints">
+          <value/>
+        </Data>
+        <Data name="altitude">
+          <value/>
+        </Data>
+        <Data name="accuracy">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -74.6711518,40.3580059,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Main Parking Lot</name>
+      <description><![CDATA[description: <br>fid: <br>id: <br>changed: <br>pictureFolder: <br>pictureName: <br>picturePath: <br>created: <br>perimeter: <br>perimeterUnit: <br>area: <br>areaUnit: <br>numberOfPoints: <br>altitude: <br>accuracy: ]]></description>
+      <styleUrl>#icon-1644-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="fid">
+          <value/>
+        </Data>
+        <Data name="id">
+          <value/>
+        </Data>
+        <Data name="changed">
+          <value/>
+        </Data>
+        <Data name="pictureFolder">
+          <value/>
+        </Data>
+        <Data name="pictureName">
+          <value/>
+        </Data>
+        <Data name="picturePath">
+          <value/>
+        </Data>
+        <Data name="created">
+          <value/>
+        </Data>
+        <Data name="perimeter">
+          <value/>
+        </Data>
+        <Data name="perimeterUnit">
+          <value/>
+        </Data>
+        <Data name="area">
+          <value/>
+        </Data>
+        <Data name="areaUnit">
+          <value/>
+        </Data>
+        <Data name="numberOfPoints">
+          <value/>
+        </Data>
+        <Data name="altitude">
+          <value/>
+        </Data>
+        <Data name="accuracy">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -74.6706663,40.3580386,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>staging exclosure</name>
+      <description><![CDATA[description: FOPOS reforestation<br>fid: 1<br>id: 293<br>changed: <br>pictureFolder: <br>pictureName: <br>picturePath: <br>created: 2024-04-13-14-38-15<br>perimeter: 198.01<br>perimeterUnit: m<br>area: 0.16961<br>areaUnit: ha<br>numberOfPoints: 26<br>altitude: <br>accuracy: ]]></description>
+      <styleUrl>#poly-7CB342-1001-94</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>FOPOS reforestation</value>
+        </Data>
+        <Data name="fid">
+          <value>1</value>
+        </Data>
+        <Data name="id">
+          <value>293</value>
+        </Data>
+        <Data name="changed">
+          <value/>
+        </Data>
+        <Data name="pictureFolder">
+          <value/>
+        </Data>
+        <Data name="pictureName">
+          <value/>
+        </Data>
+        <Data name="picturePath">
+          <value/>
+        </Data>
+        <Data name="created">
+          <value>2024-04-13-14-38-15</value>
+        </Data>
+        <Data name="perimeter">
+          <value>198.01</value>
+        </Data>
+        <Data name="perimeterUnit">
+          <value>m</value>
+        </Data>
+        <Data name="area">
+          <value>0.16961</value>
+        </Data>
+        <Data name="areaUnit">
+          <value>ha</value>
+        </Data>
+        <Data name="numberOfPoints">
+          <value>26</value>
+        </Data>
+        <Data name="altitude">
+          <value/>
+        </Data>
+        <Data name="accuracy">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -74.674697,40.361551,0
+              -74.674744,40.361615,0
+              -74.674928,40.361763,0
+              -74.674979,40.361791,0
+              -74.675,40.361793,0
+              -74.675051,40.361809,0
+              -74.675075,40.361809,0
+              -74.67511,40.36175,0
+              -74.675272,40.361739,0
+              -74.675304,40.361742,0
+              -74.675329,40.361716,0
+              -74.67528,40.36159,0
+              -74.675229,40.361542,0
+              -74.675238,40.361518,0
+              -74.675186,40.361449,0
+              -74.675199,40.361419,0
+              -74.675208,40.361408,0
+              -74.675248,40.361389,0
+              -74.675333,40.36129,0
+              -74.675326,40.361263,0
+              -74.675291,40.361243,0
+              -74.675003,40.361377,0
+              -74.674934,40.361485,0
+              -74.674905,40.361493,0
+              -74.674879,40.361515,0
+              -74.674866,40.361515,0
+              -74.674697,40.361551,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>reforestation exclosure</name>
+      <description><![CDATA[description: FOPOS reforestation<br>fid: 2<br>id: 270<br>changed: <br>pictureFolder: <br>pictureName: <br>picturePath: <br>created: 2024-03-24-16-04-59<br>perimeter: 940.31<br>perimeterUnit: m<br>area: 3.042152<br>areaUnit: ha<br>numberOfPoints: 56<br>altitude: <br>accuracy: ]]></description>
+      <styleUrl>#poly-7CB342-1200-92</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>FOPOS reforestation</value>
+        </Data>
+        <Data name="fid">
+          <value>2</value>
+        </Data>
+        <Data name="id">
+          <value>270</value>
+        </Data>
+        <Data name="changed">
+          <value/>
+        </Data>
+        <Data name="pictureFolder">
+          <value/>
+        </Data>
+        <Data name="pictureName">
+          <value/>
+        </Data>
+        <Data name="picturePath">
+          <value/>
+        </Data>
+        <Data name="created">
+          <value>2024-03-24-16-04-59</value>
+        </Data>
+        <Data name="perimeter">
+          <value>940.31</value>
+        </Data>
+        <Data name="perimeterUnit">
+          <value>m</value>
+        </Data>
+        <Data name="area">
+          <value>3.042152</value>
+        </Data>
+        <Data name="areaUnit">
+          <value>ha</value>
+        </Data>
+        <Data name="numberOfPoints">
+          <value>56</value>
+        </Data>
+        <Data name="altitude">
+          <value/>
+        </Data>
+        <Data name="accuracy">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -74.6767861,40.3592715,0
+              -74.6768144,40.3593039,0
+              -74.6772354,40.3597979,0
+              -74.6773464,40.3598639,0
+              -74.6773604,40.3598969,0
+              -74.6774654,40.3599749,0
+              -74.6775284,40.3601439,0
+              -74.6775504,40.3601839,0
+              -74.6775914,40.3602449,0
+              -74.6775874,40.3602789,0
+              -74.6775454,40.3604089,0
+              -74.6775154,40.3605179,0
+              -74.6775544,40.3605629,0
+              -74.6774854,40.3607209,0
+              -74.6773434,40.3608989,0
+              -74.6773654,40.3610429,0
+              -74.6774014,40.3610939,0
+              -74.6776454,40.3612849,0
+              -74.6776534,40.3615989,0
+              -74.6777094,40.3616539,0
+              -74.6778134,40.3617469,0
+              -74.6778204,40.3617769,0
+              -74.6778554,40.3618039,0
+              -74.6778664,40.3618199,0
+              -74.6780104,40.3619029,0
+              -74.6781314,40.3619379,0
+              -74.6782454,40.3619959,0
+              -74.6782924,40.3620169,0
+              -74.6783274,40.3620319,0
+              -74.6784144,40.3620709,0
+              -74.6785464,40.3621009,0
+              -74.6787154,40.3621679,0
+              -74.6787864,40.3621839,0
+              -74.6788184,40.3621749,0
+              -74.6788714,40.3621659,0
+              -74.6792784,40.3620809,0
+              -74.6793664,40.3620789,0
+              -74.6795084,40.3621059,0
+              -74.6795644,40.3619799,0
+              -74.6794694,40.3618829,0
+              -74.6794214,40.3618289,0
+              -74.6794154,40.3617729,0
+              -74.6793824,40.3616969,0
+              -74.6793724,40.3616509,0
+              -74.6793324,40.3615639,0
+              -74.6786554,40.3606489,0
+              -74.6777231,40.3597817,0
+              -74.677647,40.359659,0
+              -74.6775414,40.3595674,0
+              -74.6774568,40.359467,0
+              -74.6773384,40.3593299,0
+              -74.6773044,40.3592569,0
+              -74.6772294,40.3590819,0
+              -74.6770814,40.3591495,0
+              -74.6769987,40.3591909,0
+              -74.6769186,40.3592222,0
+              -74.6768599,40.359245,0
+              -74.6767861,40.3592715,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>chestnut sculpture</name>
+      <description><![CDATA[description: fopos sites<br>fid: <br>id: <br>changed: <br>pictureFolder: <br>pictureName: <br>picturePath: <br>created: 2024-11-10-11-24-59<br>perimeter: <br>perimeterUnit: <br>area: <br>areaUnit: <br>numberOfPoints: <br>altitude: 1.6449<br>accuracy: 3.7901]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>fopos sites</value>
+        </Data>
+        <Data name="fid">
+          <value/>
+        </Data>
+        <Data name="id">
+          <value/>
+        </Data>
+        <Data name="changed">
+          <value/>
+        </Data>
+        <Data name="pictureFolder">
+          <value/>
+        </Data>
+        <Data name="pictureName">
+          <value/>
+        </Data>
+        <Data name="picturePath">
+          <value/>
+        </Data>
+        <Data name="created">
+          <value>2024-11-10-11-24-59</value>
+        </Data>
+        <Data name="perimeter">
+          <value/>
+        </Data>
+        <Data name="perimeterUnit">
+          <value/>
+        </Data>
+        <Data name="area">
+          <value/>
+        </Data>
+        <Data name="areaUnit">
+          <value/>
+        </Data>
+        <Data name="numberOfPoints">
+          <value/>
+        </Data>
+        <Data name="altitude">
+          <value>1.6449</value>
+        </Data>
+        <Data name="accuracy">
+          <value>3.7901</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -74.67737,40.360018,1.64
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

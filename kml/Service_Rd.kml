@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Service Rd</name>
+    <Style id="line-757575-4875-normal">
+      <LineStyle>
+        <color>ff757575</color>
+        <width>4.875</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-757575-4875-highlight">
+      <LineStyle>
+        <color>ff757575</color>
+        <width>7.3125</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-757575-4875">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-757575-4875-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-757575-4875-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>service road</name>
+      <description><![CDATA[description: fopos black<br>changed: <br>pictureFolder: <br>pictureName: <br>picturePath: <br>created: 2024-10-27-16-48-35<br>distance: 201.84<br>distanceUnit: m<br>numberOfPoints: 19]]></description>
+      <styleUrl>#line-757575-4875</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>fopos black</value>
+        </Data>
+        <Data name="changed">
+          <value/>
+        </Data>
+        <Data name="pictureFolder">
+          <value/>
+        </Data>
+        <Data name="pictureName">
+          <value/>
+        </Data>
+        <Data name="picturePath">
+          <value/>
+        </Data>
+        <Data name="created">
+          <value>2024-10-27-16-48-35</value>
+        </Data>
+        <Data name="distance">
+          <value>201.84</value>
+        </Data>
+        <Data name="distanceUnit">
+          <value>m</value>
+        </Data>
+        <Data name="numberOfPoints">
+          <value>19</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -74.675841,40.363671,6.31
+          -74.676058,40.363766,7.05
+          -74.676208,40.3638,7.32
+          -74.676317,40.363846,7.96
+          -74.676462,40.363899,7.52
+          -74.676578,40.363978,6.62
+          -74.676657,40.364046,4.48
+          -74.676801,40.364125,2.98
+          -74.676924,40.364181,5.45
+          -74.677087,40.364244,6.95
+          -74.67719,40.364274,4.42
+          -74.677292,40.36428,3.71
+          -74.67736,40.364247,2.84
+          -74.677413,40.36417,0.86
+          -74.677447,40.364118,0
+          -74.677476,40.36404,0.67
+          -74.677558,40.363927,1.85
+          -74.67758,40.363855,3.55
+          -74.677588,40.363815,4.13
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>
